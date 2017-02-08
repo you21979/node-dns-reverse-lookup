@@ -1,5 +1,5 @@
 {
-  "name": "@you21979/dns-reverse-lookup",
+  "name": "@you21979/promise-dns-lookup",
   "author": "you21979",
   "version": "0.0.1",
   "description": "",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/you21979/node-dns-reverse-lookup.git"
+    "url": "git+https://github.com/you21979/node-promise-dns-lookup.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/you21979/node-dns-reverse-lookup/issues"
+    "url": "https://github.com/you21979/node-promise-dns-lookup/issues"
   },
   "dependencies": {
-    "bluebird": ""
+    "bluebird": "3.4.*"
   },
-  "homepage": "https://github.com/you21979/node-dns-reverse-lookup#readme"
+  "homepage": "https://github.com/you21979/node-promise-dns-lookup#readme"
 }
